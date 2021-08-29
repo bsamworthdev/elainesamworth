@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-05-06 17:49:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-05-06 17:49:41 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/setup-config.php - 80 - 62.210.185.4 - - elainesamworth.org 500 0 0 3219 237 4874
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-05-06 19:49:47
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-05-06 19:49:47 W3SVC1222 JASMINE 143.95.251.7 GET /installer.php - 80 - 109.99.162.14 - - elainesamworth.org 404 0 0 52530 225 8437
+2020-05-06 19:50:04 W3SVC1222 JASMINE 143.95.251.7 GET /installer-backup.php - 80 - 184.168.27.161 - - elainesamworth.org 404 0 0 52532 232 1234
+2020-05-06 19:50:08 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1588794585.5667750835418701171875 80 - 143.95.251.7 WordPress/4.9.14;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1588794585.5667750835418701171875 elainesamworth.org 200 0 64 0 389 23936
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-05-06 21:12:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-05-06 21:12:08 W3SVC1222 JASMINE 143.95.251.7 GET / - 80 - 69.50.237.64 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/80.0.3987.122+Safari/537.36 - elainesamworth.org 200 0 0 23786 457 5781
+2020-05-06 21:12:12 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1588799528.3861730098724365234375 80 - 143.95.251.7 WordPress/4.9.14;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1588799528.3861730098724365234375 elainesamworth.org 200 0 64 0 389 4234

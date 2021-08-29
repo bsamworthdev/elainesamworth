@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-05-09 14:56:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-05-09 14:56:11 W3SVC1222 JASMINE 143.95.251.7 GET /robots.txt - 80 - 77.88.5.154 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - elainesamworth.org 200 0 0 269 201 5718
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-05-09 19:07:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-05-09 19:07:56 W3SVC1222 JASMINE 143.95.251.7 GET /robots.txt - 80 - 158.177.164.23 Mozilla/5.0+(compatible;+oBot/2.3.1;++http://www.xforce-security.com/crawler/) - elainesamworth.org 200 0 64 0 209 6718
+2020-05-09 19:08:06 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1589051275.7061140537261962890625 80 - 143.95.251.7 WordPress/4.9.14;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1589051275.7061140537261962890625 elainesamworth.org 200 0 64 0 389 10624

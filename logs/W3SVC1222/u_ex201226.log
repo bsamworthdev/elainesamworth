@@ -1,0 +1,425 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 00:08:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 00:08:39 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 54.37.198.243 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 437
+2020-12-26 00:08:39 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 54.37.198.243 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 408 406
+2020-12-26 00:08:40 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 54.37.198.243 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 484
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 00:24:07
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 00:24:07 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 139.59.34.226 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 593
+2020-12-26 00:24:08 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 139.59.34.226 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 412 546
+2020-12-26 00:24:09 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 139.59.34.226 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 609
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 00:52:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 00:52:14 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 69.163.234.137 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 5562
+2020-12-26 00:52:15 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 69.163.234.137 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 410 421
+2020-12-26 00:52:15 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 69.163.234.137 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 531
+2020-12-26 01:00:36 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 116.193.152.156 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 1656
+2020-12-26 01:00:42 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608944435.8471910953521728515625 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608944435.8471910953521728515625 elainesamworth.org 200 0 64 0 389 6140
+2020-12-26 01:00:43 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 116.193.152.156 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 414 609
+2020-12-26 01:00:48 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 116.193.152.156 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 744 734
+2020-12-26 01:09:46 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 158.69.253.57 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 536 859
+2020-12-26 01:22:13 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 163.172.42.123 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 453
+2020-12-26 01:22:13 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 163.172.42.123 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 407 453
+2020-12-26 01:22:14 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 163.172.42.123 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 515
+2020-12-26 01:24:43 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.165.228.188 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 546 625
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 01:44:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 01:44:40 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 192.95.30.65 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk elainesamworth.org 200 0 0 542 532 437
+2020-12-26 01:53:00 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 34.106.199.158 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 374
+2020-12-26 01:53:00 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 34.106.199.158 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 407 390
+2020-12-26 01:53:01 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 34.106.199.158 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 468
+2020-12-26 02:02:17 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608948137.9978981018066406250000 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608948137.9978981018066406250000 elainesamworth.org 200 0 0 346 389 374
+2020-12-26 02:02:17 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 185.134.30.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 953
+2020-12-26 02:02:18 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 185.134.30.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 411 484
+2020-12-26 02:02:19 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 185.134.30.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 741 546
+2020-12-26 02:15:27 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.165.239.211 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk elainesamworth.org 200 0 0 542 531 546
+2020-12-26 02:25:28 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 167.71.102.17 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 328
+2020-12-26 02:25:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 167.71.102.17 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 411 343
+2020-12-26 02:25:29 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 167.71.102.17 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 484
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 02:42:29
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 02:42:29 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 139.99.69.189 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 546
+2020-12-26 02:42:29 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 139.99.69.189 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 411 546
+2020-12-26 02:42:30 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 139.99.69.189 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 640
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 02:58:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 02:58:27 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608951507.9106590747833251953125 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608951507.9106590747833251953125 elainesamworth.org 200 0 0 346 389 453
+2020-12-26 02:58:27 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 52.188.153.36 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 968
+2020-12-26 02:58:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 52.188.153.36 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 407 390
+2020-12-26 02:58:28 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 52.188.153.36 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 730 484
+2020-12-26 03:05:36 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 52.70.251.223 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 328
+2020-12-26 03:05:36 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 52.70.251.223 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 411 328
+2020-12-26 03:05:37 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 52.70.251.223 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 741 421
+2020-12-26 03:17:41 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.165.228.188 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk elainesamworth.org 200 0 0 542 530 500
+2020-12-26 03:20:30 W3SVC1222 JASMINE 143.95.251.7 GET / - 80 - 107.174.149.170 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 - elainesamworth.org 200 0 0 55116 326 828
+2020-12-26 03:20:31 W3SVC1222 JASMINE 143.95.251.7 GET /contact-me/ - 80 - 107.174.149.170 Mozilla/5.0+(Windows+NT+10.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36 http://elainesamworth.org elainesamworth.org 200 0 0 53577 408 484
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 03:38:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 03:38:15 W3SVC1222 JASMINE 143.95.251.7 GET / - 80 - 168.119.123.223 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:56.0)+Gecko/20100101+Firefox/73.0.1 - elainesamworth.org 200 0 0 23823 260 734
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 04:02:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 04:02:27 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 7531
+2020-12-26 04:02:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 415 597
+2020-12-26 04:02:32 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 3546
+2020-12-26 04:02:32 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608955346.8547580242156982421875 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608955346.8547580242156982421875 elainesamworth.org 200 0 64 0 389 5983
+2020-12-26 04:02:34 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2173 399 562
+2020-12-26 04:06:30 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 88.218.17.100 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 437
+2020-12-26 04:06:30 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 88.218.17.100 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 468
+2020-12-26 04:06:31 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 88.218.17.100 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 593
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 04:23:48
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 04:23:48 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 161.35.162.232 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 421
+2020-12-26 04:23:48 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 161.35.162.232 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 421
+2020-12-26 04:23:49 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 161.35.162.232 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 406
+2020-12-26 04:23:49 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 161.35.162.232 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2169 407 437
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 04:58:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 04:58:42 W3SVC1222 JASMINE 143.95.251.7 GET /feed/ - 80 - 13.66.139.74 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - elainesamworth.org 200 0 0 5531 246 7031
+2020-12-26 04:58:46 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608958721.2333450317382812500000 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608958721.2333450317382812500000 elainesamworth.org 200 0 64 0 389 5187
+2020-12-26 05:05:38 W3SVC1222 JASMINE 143.95.251.7 GET /comments/feed/ - 80 - 13.66.139.63 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - elainesamworth.org 200 0 0 1167 255 437
+2020-12-26 05:07:08 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 176.31.123.203 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk elainesamworth.org 200 0 0 542 532 531
+2020-12-26 05:07:32 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 37.139.11.239 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 421
+2020-12-26 05:07:33 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 37.139.11.239 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 407 421
+2020-12-26 05:07:34 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 37.139.11.239 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 406
+2020-12-26 05:07:34 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 37.139.11.239 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2173 399 406
+2020-12-26 05:14:58 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 192.241.148.219 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 328
+2020-12-26 05:14:58 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 192.241.148.219 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 414 375
+2020-12-26 05:14:59 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 192.241.148.219 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 744 531
+2020-12-26 05:28:39 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 34.80.173.236 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 484
+2020-12-26 05:28:39 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 34.80.173.236 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 500
+2020-12-26 05:28:40 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 34.80.173.236 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 468
+2020-12-26 05:28:41 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 34.80.173.236 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2173 399 453
+2020-12-26 05:36:50 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 194.110.114.188 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36+OPR/52.0.2871.99 - elainesamworth.org 200 0 0 1731 271 453
+2020-12-26 05:36:50 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 194.110.114.188 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36+OPR/52.0.2871.99 - elainesamworth.org 200 0 0 2167 536 437
+2020-12-26 05:39:26 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 51.75.53.141 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 468
+2020-12-26 05:39:27 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 51.75.53.141 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 404 437
+2020-12-26 05:39:27 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 51.75.53.141 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 437
+2020-12-26 05:39:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 51.75.53.141 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2173 399 437
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 06:11:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 06:11:16 W3SVC1222 JASMINE 143.95.251.7 POST /wp-content/themes/twentyseventeen/footer.php - 80 - 193.106.30.100 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.14;+rv:68.0)+Gecko/20100101+Firefox/68.0 - elainesamworth.org 200 0 0 568 482 5250
+2020-12-26 06:19:48 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 52.229.158.168 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 1781
+2020-12-26 06:19:49 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 52.229.158.168 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 562
+2020-12-26 06:19:50 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 52.229.158.168 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 671
+2020-12-26 06:19:53 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608963588.3045010566711425781250 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608963588.3045010566711425781250 elainesamworth.org 200 0 64 0 389 5468
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 06:40:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 06:40:09 W3SVC1222 JASMINE 143.95.251.7 GET /robots.txt - 80 - 54.36.148.134 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - elainesamworth.org 200 0 0 505 183 421
+2020-12-26 06:40:11 W3SVC1222 JASMINE 143.95.251.7 GET / - 80 - 54.36.149.15 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) - elainesamworth.org 200 0 0 23823 173 875
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 07:22:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 07:22:37 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 185.134.30.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 6921
+2020-12-26 07:22:37 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 185.134.30.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 468
+2020-12-26 07:22:38 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 185.134.30.116 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 578
+2020-12-26 07:22:41 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608967356.1346700191497802734375 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608967356.1346700191497802734375 elainesamworth.org 200 0 64 0 389 5406
+2020-12-26 07:36:21 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.165.210.14 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk elainesamworth.org 200 0 0 542 533 687
+2020-12-26 07:42:00 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 5.39.64.46 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk elainesamworth.org 200 0 0 542 531 546
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 08:00:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 08:00:42 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608969642.1649639606475830078125 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608969642.1649639606475830078125 elainesamworth.org 200 0 0 346 389 484
+2020-12-26 08:00:42 W3SVC1222 JASMINE 143.95.251.7 GET /admin/ - 80 - 151.80.45.51 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 302 0 0 656 182 1281
+2020-12-26 08:00:43 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/ - 80 - 151.80.45.51 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 http://elainesamworth.org/admin/ elainesamworth.org 302 0 0 649 228 531
+2020-12-26 08:00:43 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2F&reauth=1 80 - 151.80.45.51 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 http://elainesamworth.org/wp-admin/ elainesamworth.org 200 0 0 3588 301 421
+2020-12-26 08:04:38 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 91.207.172.68 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36+OPR/43.0.2442.1144 - elainesamworth.org 200 0 0 1731 266 453
+2020-12-26 08:04:39 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 91.207.172.68 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36+OPR/43.0.2442.1144 - elainesamworth.org 200 0 0 2167 529 437
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 08:28:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 08:28:17 W3SVC1222 JASMINE 143.95.251.7 GET / - 80 - 54.190.121.251 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - elainesamworth.org 200 0 0 23825 241 5999
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 09:41:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 09:41:29 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 5.188.62.214 Mozilla/5.0+(Windows+NT+6.2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2225.0+Safari/537.36 - elainesamworth.org 200 0 0 542 515 7421
+2020-12-26 09:41:34 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608975688.6837339401245117187500 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608975688.6837339401245117187500 elainesamworth.org 200 0 64 0 389 5640
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 09:58:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 09:58:01 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608976681.2133409976959228515625 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608976681.2133409976959228515625 elainesamworth.org 200 0 0 346 389 390
+2020-12-26 09:58:01 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/network/site-info.php - 80 - 178.218.165.61 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 302 0 0 676 242 1078
+2020-12-26 09:58:01 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2Fnetwork%2Fsite-info.php&reauth=1 80 - 178.218.165.61 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 200 0 0 4579 314 468
+2020-12-26 10:05:05 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 94.153.224.202 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 188 515
+2020-12-26 10:05:06 W3SVC1222 JASMINE 143.95.251.7 GET / author=1 80 - 94.153.224.202 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 302 0 0 1035 187 562
+2020-12-26 10:05:07 W3SVC1222 JASMINE 143.95.251.7 GET /wp-json/wp/v2/users/ - 80 - 94.153.224.202 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1164 198 500
+2020-12-26 10:20:09 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 74.208.47.193 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 188 328
+2020-12-26 10:20:10 W3SVC1222 JASMINE 143.95.251.7 GET / author=1 80 - 74.208.47.193 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 302 0 0 1033 187 234
+2020-12-26 10:20:10 W3SVC1222 JASMINE 143.95.251.7 GET /wp-json/wp/v2/users/ - 80 - 74.208.47.193 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1164 198 421
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 12:37:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 12:37:16 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 37.120.194.135 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+YaBrowser/17.10.1.1204+Yowser/2.5+Safari/537.36 - elainesamworth.org 200 0 0 1731 282 6937
+2020-12-26 12:37:16 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 37.120.194.135 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+YaBrowser/17.10.1.1204+Yowser/2.5+Safari/537.36 - elainesamworth.org 200 0 0 2167 547 500
+2020-12-26 12:37:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608986235.5725879669189453125000 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608986235.5725879669189453125000 elainesamworth.org 200 0 64 0 389 13062
+2020-12-26 12:38:13 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 192.95.30.137 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 534 421
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 13:39:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 13:39:09 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/async-upload.php - 80 - 171.22.26.67 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 302 0 64 0 237 7312
+2020-12-26 13:39:14 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608989948.7768819332122802734375 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608989948.7768819332122802734375 elainesamworth.org 200 0 64 0 389 5359
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 14:07:19
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 14:07:18 W3SVC1222 JASMINE 143.95.251.7 GET /wp-content/plugins/background-image-cropper/new_license.php.suspected - 80 - 91.212.213.12 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 404 0 64 0 281 7218
+2020-12-26 14:07:23 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608991637.5786249637603759765625 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608991637.5786249637603759765625 elainesamworth.org 200 0 64 0 389 5437
+2020-12-26 14:13:41 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.165.239.211 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 534 968
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 14:35:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 14:35:57 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/network/update-core.php - 80 - 162.252.85.146 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 302 0 64 0 247 6125
+2020-12-26 14:36:09 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 37.187.167.55 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 515
+2020-12-26 14:36:09 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 37.187.167.55 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 515
+2020-12-26 14:36:10 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 37.187.167.55 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 739 609
+2020-12-26 14:48:28 W3SVC1222 JASMINE 143.95.251.7 GET /wp-content/themes/holding_pattern/admin/options-tab-sample.txt - 80 - 23.228.109.146 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2896.3+Safari/537.36 http://www.google.com/ elainesamworth.org 404 0 0 52630 391 546
+2020-12-26 14:51:55 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 164.90.187.70 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 421
+2020-12-26 14:51:55 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 164.90.187.70 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 415 421
+2020-12-26 14:51:56 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 164.90.187.70 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 656
+2020-12-26 14:55:25 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 178.239.161.80 Mozilla/5.0+(Linux;+Android+7.0;+SM-G610M+Build/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/69.0.3497.100+Mobile+Safari/537.36+Instagram+65.0.0.12.86+Android+(24/7.0;+480dpi;+1080x1920;+samsung;+SM-G610M;+on7xelte;+samsungexynos7870;+es_US;+126223536) - elainesamworth.org 200 0 0 1731 416 1593
+2020-12-26 14:55:25 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 178.239.161.80 Mozilla/5.0+(Linux;+Android+7.0;+SM-G610M+Build/NRD90M;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/69.0.3497.100+Mobile+Safari/537.36+Instagram+65.0.0.12.86+Android+(24/7.0;+480dpi;+1080x1920;+samsung;+SM-G610M;+on7xelte;+samsungexynos7870;+es_US;+126223536) - elainesamworth.org 200 0 0 2167 674 406
+2020-12-26 14:55:29 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608994524.4881200790405273437500 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608994524.4881200790405273437500 elainesamworth.org 200 0 64 0 389 5390
+2020-12-26 15:07:35 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 206.189.231.196 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 390
+2020-12-26 15:07:36 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 206.189.231.196 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 343
+2020-12-26 15:07:36 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 206.189.231.196 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 739 468
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 15:23:52
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 15:23:52 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 118.69.173.199 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 546
+2020-12-26 15:23:53 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 118.69.173.199 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 515
+2020-12-26 15:23:55 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 118.69.173.199 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 739 625
+2020-12-26 15:26:33 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/maint/images.php - 80 - 139.99.90.231 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 404 0 0 52613 240 1218
+2020-12-26 15:41:03 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 13.74.252.234 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 562
+2020-12-26 15:41:04 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 13.74.252.234 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 407 515
+2020-12-26 15:41:05 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 13.74.252.234 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 734
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 15:58:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 15:58:16 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1608998297.0054569244384765625000 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1608998297.0054569244384765625000 elainesamworth.org 200 0 0 346 389 343
+2020-12-26 15:58:16 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 163.172.218.46 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 890
+2020-12-26 15:58:18 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 163.172.218.46 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 406
+2020-12-26 15:58:18 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 163.172.218.46 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 500
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 16:14:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 16:14:26 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 51.81.0.103 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 359
+2020-12-26 16:14:26 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 51.81.0.103 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 404 375
+2020-12-26 16:14:26 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 51.81.0.103 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 468
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 16:32:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 16:32:27 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 138.197.213.160 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 406
+2020-12-26 16:32:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 138.197.213.160 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 415 375
+2020-12-26 16:32:28 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 138.197.213.160 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 468
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 16:49:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 16:49:31 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 185.8.10.230 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 437
+2020-12-26 16:49:31 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 185.8.10.230 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 406 468
+2020-12-26 16:49:33 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 185.8.10.230 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 531
+2020-12-26 17:02:37 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609002157.8757050037384033203125 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609002157.8757050037384033203125 elainesamworth.org 200 0 0 346 389 375
+2020-12-26 17:02:38 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.165.211.206 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 534 1109
+2020-12-26 17:03:32 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/network/plugin-editor.php - 80 - 62.210.185.4 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 302 0 0 684 249 546
+2020-12-26 17:03:32 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2Fnetwork%2Fplugin-editor.php&reauth=1 80 - 62.210.185.4 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 200 0 0 4583 321 468
+2020-12-26 17:08:46 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 45.89.205.54 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 360
+2020-12-26 17:08:47 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 45.89.205.54 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 406 359
+2020-12-26 17:08:47 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 45.89.205.54 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 453
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 17:26:02
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 17:26:01 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 157.230.96.179 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 468
+2020-12-26 17:26:02 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 157.230.96.179 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 437
+2020-12-26 17:26:02 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 157.230.96.179 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 546
+2020-12-26 17:26:59 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 45.83.91.28 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36 - elainesamworth.org 200 0 0 1731 254 437
+2020-12-26 17:27:00 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 45.83.91.28 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36 - elainesamworth.org 200 0 0 2167 512 468
+2020-12-26 17:42:54 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 176.53.69.158 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 484
+2020-12-26 17:42:56 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 176.53.69.158 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 410 499
+2020-12-26 17:42:57 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 176.53.69.158 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 703
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 18:00:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 18:00:23 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609005623.3021149635314941406250 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609005623.3021149635314941406250 elainesamworth.org 200 0 0 346 389 343
+2020-12-26 18:00:23 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 158.69.253.57 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 536 890
+2020-12-26 18:01:56 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 150.95.81.33 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 1109
+2020-12-26 18:01:57 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 150.95.81.33 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 640
+2020-12-26 18:01:58 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 150.95.81.33 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 624
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 18:20:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 18:20:19 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/options-discussion.php - 80 - 103.27.239.137 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 302 0 0 674 243 703
+2020-12-26 18:20:20 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2Foptions-discussion.php&reauth=1 80 - 103.27.239.137 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 200 0 0 4580 313 656
+2020-12-26 18:20:29 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/options-discussion.php - 80 - 103.27.239.137 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 302 0 0 674 243 625
+2020-12-26 18:20:31 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2Foptions-discussion.php&reauth=1 80 - 103.27.239.137 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://site.ru elainesamworth.org 200 0 0 4580 313 546
+2020-12-26 18:21:03 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 531
+2020-12-26 18:21:04 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 404 515
+2020-12-26 18:21:04 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 35.201.5.248 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 624
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 18:39:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 18:39:45 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 51.81.0.103 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 593
+2020-12-26 18:39:46 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 51.81.0.103 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 453
+2020-12-26 18:39:46 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 51.81.0.103 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 421
+2020-12-26 18:40:14 W3SVC1222 JASMINE 143.95.251.7 GET /lang-set.php r=aHR0cDovL3lhbmRleC5ydQ== 80 - 94.242.26.158 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 - elainesamworth.org 404 0 0 52611 175 1015
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 18:59:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 18:59:28 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609009167.5314319133758544921875 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609009167.5314319133758544921875 elainesamworth.org 200 0 0 346 389 406
+2020-12-26 18:59:28 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 54.37.198.243 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 1031
+2020-12-26 18:59:29 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 54.37.198.243 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 412 437
+2020-12-26 18:59:29 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 54.37.198.243 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 742 515
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 19:15:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 19:15:58 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 142.93.197.186 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 343
+2020-12-26 19:15:58 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 142.93.197.186 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 343
+2020-12-26 19:15:59 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 142.93.197.186 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 406
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 19:35:26
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 19:35:26 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 37.59.4.155 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 468
+2020-12-26 19:35:26 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 37.59.4.155 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 410 468
+2020-12-26 19:35:27 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 37.59.4.155 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 740 531
+2020-12-26 19:47:50 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 141.98.103.116 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36+OPR/52.0.2871.64 - elainesamworth.org 200 0 0 1731 271 471
+2020-12-26 19:47:50 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 141.98.103.116 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/65.0.3325.181+Safari/537.36+OPR/52.0.2871.64 - elainesamworth.org 200 0 0 2167 532 453
+2020-12-26 19:53:56 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 3.24.79.109 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 562
+2020-12-26 19:53:57 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 3.24.79.109 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 418 640
+2020-12-26 19:53:57 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 3.24.79.109 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 546
+2020-12-26 19:55:51 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609012550.7794730663299560546875 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609012550.7794730663299560546875 elainesamworth.org 200 0 0 346 389 359
+2020-12-26 19:55:51 W3SVC1222 JASMINE 143.95.251.7 POST /avtogear86_ru_cron.php - 80 - 193.106.30.100 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - elainesamworth.org 404 0 64 0 510 1187
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 20:14:17
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 20:14:17 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 202.5.16.47 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 359
+2020-12-26 20:14:17 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 202.5.16.47 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 359
+2020-12-26 20:14:18 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 202.5.16.47 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 421
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 20:33:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 20:33:30 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 188.166.13.190 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 421
+2020-12-26 20:33:32 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 188.166.13.190 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 414 421
+2020-12-26 20:33:32 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 188.166.13.190 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 744 531
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 20:54:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 20:54:01 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 45.89.204.94 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 5812
+2020-12-26 20:54:01 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 45.89.204.94 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 406
+2020-12-26 20:54:02 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 45.89.204.94 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 515
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 21:11:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 21:11:58 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 139.59.40.233 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 1765
+2020-12-26 21:12:00 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 139.59.40.233 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 562
+2020-12-26 21:12:01 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 139.59.40.233 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 640
+2020-12-26 21:12:02 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609017117.7827548980712890625000 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609017117.7827548980712890625000 elainesamworth.org 200 0 64 0 389 5500
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 21:32:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 21:32:15 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 145.239.211.242 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 421
+2020-12-26 21:32:16 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 145.239.211.242 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 410 421
+2020-12-26 21:32:16 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 145.239.211.242 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 740 499
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 21:53:23
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 21:53:22 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 51.91.123.235 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 7156
+2020-12-26 21:53:23 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 51.91.123.235 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 499
+2020-12-26 21:53:24 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 51.91.123.235 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 743 593
+2020-12-26 21:53:27 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609019601.7356159687042236328125 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609019601.7356159687042236328125 elainesamworth.org 200 0 64 0 389 5624
+2020-12-26 22:05:47 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609020346.7299780845642089843750 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609020346.7299780845642089843750 elainesamworth.org 200 0 0 346 389 359
+2020-12-26 22:05:47 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 194.110.84.145 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+de-de;+SGPT12+Build/TJDSU0177)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Safari/534.30 - elainesamworth.org 200 0 0 1731 272 937
+2020-12-26 22:05:47 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 194.110.84.145 Mozilla/5.0+(Linux;+U;+Android+4.1.1;+de-de;+SGPT12+Build/TJDSU0177)+AppleWebKit/534.30+(KHTML,+like+Gecko)+Version/4.0+Safari/534.30 - elainesamworth.org 200 0 0 2167 533 453
+2020-12-26 22:12:30 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 134.122.46.215 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 343
+2020-12-26 22:12:31 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 134.122.46.215 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 408 328
+2020-12-26 22:12:31 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 134.122.46.215 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 406
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 22:32:55
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 22:32:55 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 159.89.51.228 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 359
+2020-12-26 22:32:56 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 159.89.51.228 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 750
+2020-12-26 22:32:56 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 159.89.51.228 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 562
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 22:51:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 22:51:57 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 198.12.226.7 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 499
+2020-12-26 22:51:57 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 198.12.226.7 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 413 406
+2020-12-26 22:51:58 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 198.12.226.7 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 546
+2020-12-26 22:56:40 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 158.69.253.57 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.90+Safari/537.36 http://www.google.com.hk www.elainesamworth.org 200 0 0 542 534 1593
+2020-12-26 22:56:47 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609023399.3639690876007080078125 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609023399.3639690876007080078125 elainesamworth.org 200 0 64 0 389 7859
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 23:13:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 23:13:09 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 104.248.201.153 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 890
+2020-12-26 23:13:09 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 104.248.201.153 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 410 437
+2020-12-26 23:13:10 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 104.248.201.153 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 499
+2020-12-26 23:17:51 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/options.php - 80 - 194.1.184.79 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 302 0 0 652 235 562
+2020-12-26 23:17:51 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2Foptions.php&reauth=1 80 - 194.1.184.79 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 200 0 0 4569 305 453
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 23:33:38
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 23:33:37 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 134.122.94.113 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 421
+2020-12-26 23:33:39 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 134.122.94.113 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 411 437
+2020-12-26 23:33:40 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 134.122.94.113 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 732 500
+2020-12-26 23:38:16 W3SVC1222 JASMINE 143.95.251.7 GET /wp-admin/freedoms.php - 80 - 198.71.227.6 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 302 0 0 654 236 484
+2020-12-26 23:38:17 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php redirect_to=http%3A%2F%2Felainesamworth.org%2Fwp-admin%2Ffreedoms.php&reauth=1 80 - 198.71.227.6 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.99+Safari/533.4 http://google.com elainesamworth.org 200 0 0 4570 306 343
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2020-12-26 23:55:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2020-12-26 23:55:49 W3SVC1222 JASMINE 143.95.251.7 POST /wp-cron.php doing_wp_cron=1609026948.8631179332733154296875 80 - 143.95.251.7 WordPress/4.9.16;+http://elainesamworth.org http://elainesamworth.org/wp-cron.php?doing_wp_cron=1609026948.8631179332733154296875 elainesamworth.org 200 0 0 346 389 390
+2020-12-26 23:55:49 W3SVC1222 JASMINE 143.95.251.7 GET /wp-login.php - 80 - 178.62.77.224 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 1750 237 984
+2020-12-26 23:55:54 W3SVC1222 JASMINE 143.95.251.7 POST /wp-login.php - 80 - 178.62.77.224 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 2191 409 375
+2020-12-26 23:55:55 W3SVC1222 JASMINE 143.95.251.7 POST /xmlrpc.php - 80 - 178.62.77.224 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - elainesamworth.org 200 0 0 568 739 468
+2020-12-26 23:58:21 W3SVC1222 JASMINE 143.95.251.7 GET /robots.txt - 80 - 157.55.39.16 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - elainesamworth.org 200 0 0 505 251 359
+2020-12-26 23:58:25 W3SVC1222 JASMINE 143.95.251.7 GET /feed/ - 80 - 13.66.139.74 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - elainesamworth.org 200 0 0 5531 246 562
